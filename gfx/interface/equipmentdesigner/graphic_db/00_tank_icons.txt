@@ -1160,7 +1160,7 @@ ENG = {
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_0/ENG_vickers_6t_a.dds"
 			}
 			models = {
-				"ENG_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
 			}
 		}
 	}
@@ -1183,7 +1183,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_1/ENG_light_tank_mk_4.dds"
 			}		
 			models = {
-				"ENG_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
 			}
 	    }
 	}
@@ -1203,7 +1203,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_2/ENG_cruiser_tank_mk_4a.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_2/ENG_cruiser_tank_mk_4.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_2/ENG_cruiser_tank_mk_3_cs.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_2/ENG_cruiser_tank_mk_3dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_2/ENG_cruiser_tank_mk_3.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_2/ENG_cruiser_tank_mk_2_cs.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_2/ENG_cruiser_tank_mk_2.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_2/ENG_cruiser_tank_mk_1_cs.dds"
@@ -1211,7 +1211,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_2/ENG_matilda_1.dds"
 			}
 			models = {
-				"ENG_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
 			}
 		}
 	}
@@ -1242,7 +1242,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/light_3/ENG_valentine_mk_1.dds"
 			}
 			models = {
-				"ENG_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
 			}
 		}
 	}
@@ -1262,7 +1262,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/medium_0/ENG_medium_tank_mk_1.dds"
 			}
 			models = {
-				"ENG_medium_armor_entity"
+				commonwealth_gfx_medium_armor_entity
 			}
 		}
 	}
@@ -1292,7 +1292,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/medium_1/ENG_crusader_mk1.dds"
 			}
 			models = {
-				"ENG_medium_armor_entity"
+				commonwealth_gfx_medium_armor_entity
 			}
 		}
 	}
@@ -1324,7 +1324,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/medium_2/ENG_cromwell_mk1.dds"
 			}
 			models = {
-				"ENG_medium_armor_entity"
+				commonwealth_gfx_medium_armor_entity
 			}
 		}
 	}
@@ -1340,7 +1340,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/medium_3/ENG_comet_type_a.dds"
 			}
 			models = {
-				"ENG_medium_armor_entity"
+				commonwealth_gfx_medium_armor_entity
 			}
 		}
 	}
@@ -1356,7 +1356,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/heavy_0/ENG_independent.dds"
 			}
 			models = {
-				"ENG_medium_armor_entity"
+				commonwealth_gfx_medium_armor_entity
 			}
 		}
 	}
@@ -1379,7 +1379,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/heavy_1/ENG_matilda_2_mk2.dds"
 			}
 			models = {				
-				"ENG_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity				
 			}
 		}
 	}
@@ -1410,7 +1410,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/heavy_2/ENG_churchill_mk1.dds"
 			}
 			models = {				
-				"ENG_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity				
 			}
 		}
 	}
@@ -1426,7 +1426,7 @@ ENG = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_ENG/heavy_3/ENG_black_prince.dds"
 			}
 			models = {				
-				"ENG_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity				
 			}
 		}
 	}
@@ -2274,7 +2274,8 @@ AST = {
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_0/AST_vickers_6t_a.dds"
 			}
 			models = {
-				"AST_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#AST_light_armor_entity
 			}
 		}
 	}
@@ -2297,7 +2298,8 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_1/AST_light_tank_mk_4.dds"
 			}		
 			models = {
-				"AST_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#AST_light_armor_entity
 			}
 	    }
 	}
@@ -2317,7 +2319,7 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_2/AST_cruiser_tank_mk_4a.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_2/AST_cruiser_tank_mk_4.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_2/AST_cruiser_tank_mk_3_cs.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_2/AST_cruiser_tank_mk_3dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_2/AST_cruiser_tank_mk_3.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_2/AST_cruiser_tank_mk_2_cs.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_2/AST_cruiser_tank_mk_2.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_2/AST_cruiser_tank_mk_1_cs.dds"
@@ -2325,7 +2327,8 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_2/AST_matilda_1.dds"
 			}
 			models = {
-				"AST_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#AST_light_armor_entity
 			}
 		}
 	}
@@ -2356,7 +2359,8 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/light_3/AST_valentine_mk_1.dds"
 			}
 			models = {
-				"AST_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#AST_light_armor_entity
 			}
 		}
 	}
@@ -2376,6 +2380,7 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/medium_0/AST_medium_tank_mk_1.dds"
 			}
 			models = {
+				AST_medium_armor_2_entity
 				"AST_medium_armor_entity"
 			}
 		}
@@ -2406,6 +2411,7 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/medium_1/AST_crusader_mk1.dds"
 			}
 			models = {
+				AST_medium_armor_2_entity
 				"AST_medium_armor_entity"
 			}
 		}
@@ -2438,6 +2444,7 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/medium_2/AST_cromwell_mk1.dds"
 			}
 			models = {
+				AST_medium_armor_2_entity
 				"AST_medium_armor_entity"
 			}
 		}
@@ -2454,6 +2461,7 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/medium_3/AST_comet_type_a.dds"
 			}
 			models = {
+				AST_medium_armor_2_entity
 				"AST_medium_armor_entity"
 			}
 		}
@@ -2470,6 +2478,7 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/heavy_0/AST_independent.dds"
 			}
 			models = {
+				AST_medium_armor_2_entity
 				"AST_medium_armor_entity"
 			}
 		}
@@ -2492,8 +2501,9 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/heavy_1/AST_matilda_2_mk2a.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/heavy_1/AST_matilda_2_mk2.dds"
 			}
-			models = {				
-				"AST_heavy_armor_entity"				
+			models = {
+				commonwealth_gfx_heavy_armor_entity
+				#AST_heavy_armor_entity				
 			}
 		}
 	}
@@ -2523,8 +2533,9 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/heavy_2/AST_churchill_mk2.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/heavy_2/AST_churchill_mk1.dds"
 			}
-			models = {				
-				"AST_heavy_armor_entity"				
+			models = {
+				commonwealth_gfx_heavy_armor_entity
+				#AST_heavy_armor_entity				
 			}
 		}
 	}
@@ -2539,8 +2550,9 @@ AST = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/heavy_3/AST_excelsior_early.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_AST/heavy_3/AST_black_prince.dds"
 			}
-			models = {				
-				"AST_heavy_armor_entity"				
+			models = {
+				commonwealth_gfx_heavy_armor_entity
+				#AST_heavy_armor_entity				
 			}
 		}
 	}
@@ -2614,7 +2626,8 @@ RAJ = {
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_0/RAJ_vickers_6t_a.dds"
 			}
 			models = {
-				"RAJ_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#RAJ_light_armor_entity
 			}
 		}
 	}
@@ -2637,7 +2650,8 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_1/RAJ_light_tank_mk_4.dds"
 			}		
 			models = {
-				"RAJ_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#RAJ_light_armor_entity
 			}
 	    }
 	}
@@ -2657,7 +2671,7 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_2/RAJ_cruiser_tank_mk_4a.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_2/RAJ_cruiser_tank_mk_4.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_2/RAJ_cruiser_tank_mk_3_cs.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_2/RAJ_cruiser_tank_mk_3dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_2/RAJ_cruiser_tank_mk_3.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_2/RAJ_cruiser_tank_mk_2_cs.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_2/RAJ_cruiser_tank_mk_2.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_2/RAJ_cruiser_tank_mk_1_cs.dds"
@@ -2665,7 +2679,8 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_2/RAJ_matilda_1.dds"
 			}
 			models = {
-				"RAJ_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#RAJ_light_armor_entity
 			}
 		}
 	}
@@ -2696,7 +2711,8 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/light_3/RAJ_valentine_mk_1.dds"
 			}
 			models = {
-				"RAJ_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#RAJ_light_armor_entity
 			}
 		}
 	}
@@ -2716,7 +2732,7 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/medium_0/RAJ_medium_tank_mk_1.dds"
 			}
 			models = {
-				"RAJ_medium_armor_entity"
+				#RAJ_medium_armor_entity
 			}
 		}
 	}
@@ -2746,7 +2762,7 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/medium_1/RAJ_crusader_mk1.dds"
 			}
 			models = {
-				"RAJ_medium_armor_entity"
+				#RAJ_medium_armor_entity
 			}
 		}
 	}
@@ -2778,7 +2794,7 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/medium_2/RAJ_cromwell_mk1.dds"
 			}
 			models = {
-				"RAJ_medium_armor_entity"
+				#RAJ_medium_armor_entity
 			}
 		}
 	}
@@ -2794,7 +2810,7 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/medium_3/RAJ_comet_type_a.dds"
 			}
 			models = {
-				"RAJ_medium_armor_entity"
+				#RAJ_medium_armor_entity
 			}
 		}
 	}
@@ -2810,7 +2826,7 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_0/RAJ_independent.dds"
 			}
 			models = {
-				"RAJ_medium_armor_entity"
+				#RAJ_medium_armor_entity
 			}
 		}
 	}
@@ -2833,7 +2849,7 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_1/RAJ_matilda_2_mk2.dds"
 			}
 			models = {				
-				"RAJ_heavy_armor_entity"				
+				#RAJ_heavy_armor_entity				
 			}
 		}
 	}
@@ -2854,8 +2870,8 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_2/RAJ_churchill_mk7.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_2/RAJ_churchill_mk6.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_2/RAJ_churchill_mk5.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_2/RAJ_churchill_mk4_cRAJ_turret_na75.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_2/RAJ_churchill_mk4_cRAJ_turret.dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_2/RAJ_churchill_mk4_cast_turret_na75.dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_2/RAJ_churchill_mk4_cast_turret.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_2/RAJ_churchill_mk4_welded_turret.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_2/RAJ_ardeer_aggie.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_2/RAJ_churchill_mk3.dds"
@@ -2864,7 +2880,7 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_2/RAJ_churchill_mk1.dds"
 			}
 			models = {				
-				"RAJ_heavy_armor_entity"				
+				#RAJ_heavy_armor_entity				
 			}
 		}
 	}
@@ -2880,7 +2896,7 @@ RAJ = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_RAJ/heavy_3/RAJ_black_prince.dds"
 			}
 			models = {				
-				"RAJ_heavy_armor_entity"				
+				#RAJ_heavy_armor_entity				
 			}
 		}
 	}
@@ -2954,6 +2970,7 @@ CAN = {
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_0/CAN_vickers_6t_a.dds"
 			}
 			models = {
+				commonwealth_gfx_light_armor_entity
 				"CAN_light_armor_entity"
 			}
 		}
@@ -2977,6 +2994,7 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_1/CAN_light_tank_mk_4.dds"
 			}		
 			models = {
+				commonwealth_gfx_light_armor_entity
 				"CAN_light_armor_entity"
 			}
 	    }
@@ -2997,7 +3015,7 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_2/CAN_cruiser_tank_mk_4a.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_2/CAN_cruiser_tank_mk_4.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_2/CAN_cruiser_tank_mk_3_cs.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_2/CAN_cruiser_tank_mk_3dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_2/CAN_cruiser_tank_mk_3.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_2/CAN_cruiser_tank_mk_2_cs.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_2/CAN_cruiser_tank_mk_2.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_2/CAN_cruiser_tank_mk_1_cs.dds"
@@ -3005,6 +3023,7 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_2/CAN_matilda_1.dds"
 			}
 			models = {
+				commonwealth_gfx_light_armor_entity
 				"CAN_light_armor_entity"
 			}
 		}
@@ -3036,6 +3055,7 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/light_3/CAN_valentine_mk_1.dds"
 			}
 			models = {
+				commonwealth_gfx_light_armor_entity
 				"CAN_light_armor_entity"
 			}
 		}
@@ -3056,6 +3076,8 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/medium_0/CAN_medium_tank_mk_1.dds"
 			}
 			models = {
+				commonwealth_gfx_medium_armor_entity
+				CAN_medium_armor_2_entity
 				"CAN_medium_armor_entity"
 			}
 		}
@@ -3086,6 +3108,8 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/medium_1/CAN_crusader_mk1.dds"
 			}
 			models = {
+				commonwealth_gfx_medium_armor_entity
+				CAN_medium_armor_2_entity
 				"CAN_medium_armor_entity"
 			}
 		}
@@ -3118,6 +3142,8 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/medium_2/CAN_cromwell_mk1.dds"
 			}
 			models = {
+				commonwealth_gfx_medium_armor_entity
+				CAN_medium_armor_2_entity
 				"CAN_medium_armor_entity"
 			}
 		}
@@ -3134,6 +3160,8 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/medium_3/CAN_comet_type_a.dds"
 			}
 			models = {
+				commonwealth_gfx_medium_armor_entity
+				CAN_medium_armor_2_entity
 				"CAN_medium_armor_entity"
 			}
 		}
@@ -3150,6 +3178,7 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/heavy_0/CAN_independent.dds"
 			}
 			models = {
+				commonwealth_gfx_medium_armor_entity
 				"CAN_medium_armor_entity"
 			}
 		}
@@ -3173,7 +3202,8 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/heavy_1/CAN_matilda_2_mk2.dds"
 			}
 			models = {				
-				"CAN_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity
+				#"CAN_heavy_armor_entity"				
 			}
 		}
 	}
@@ -3204,7 +3234,8 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/heavy_2/CAN_churchill_mk1.dds"
 			}
 			models = {				
-				"CAN_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity
+				#"CAN_heavy_armor_entity"				
 			}
 		}
 	}
@@ -3220,7 +3251,8 @@ CAN = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_CAN/heavy_3/CAN_black_prince.dds"
 			}
 			models = {				
-				"CAN_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity
+				#"CAN_heavy_armor_entity"				
 			}
 		}
 	}
@@ -3294,7 +3326,8 @@ SAF = {
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_0/SAF_vickers_6t_a.dds"
 			}
 			models = {
-				"SAF_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#"SAF_light_armor_entity"
 			}
 		}
 	}
@@ -3317,7 +3350,8 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_1/SAF_light_tank_mk_4.dds"
 			}		
 			models = {
-				"SAF_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#"SAF_light_armor_entity"
 			}
 	    }
 	}
@@ -3337,7 +3371,7 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_2/SAF_cruiser_tank_mk_4a.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_2/SAF_cruiser_tank_mk_4.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_2/SAF_cruiser_tank_mk_3_cs.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_2/SAF_cruiser_tank_mk_3dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_2/SAF_cruiser_tank_mk_3.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_2/SAF_cruiser_tank_mk_2_cs.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_2/SAF_cruiser_tank_mk_2.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_2/SAF_cruiser_tank_mk_1_cs.dds"
@@ -3345,7 +3379,8 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_2/SAF_matilda_1.dds"
 			}
 			models = {
-				"SAF_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#"SAF_light_armor_entity"
 			}
 		}
 	}
@@ -3376,7 +3411,8 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/light_3/SAF_valentine_mk_1.dds"
 			}
 			models = {
-				"SAF_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#"SAF_light_armor_entity"
 			}
 		}
 	}
@@ -3396,7 +3432,8 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/medium_0/SAF_medium_tank_mk_1.dds"
 			}
 			models = {
-				"SAF_medium_armor_entity"
+				commonwealth_gfx_medium_armor_entity
+				#SAF_medium_armor_entity
 			}
 		}
 	}
@@ -3426,7 +3463,8 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/medium_1/SAF_crusader_mk1.dds"
 			}
 			models = {
-				"SAF_medium_armor_entity"
+				commonwealth_gfx_medium_armor_entity
+				#SAF_medium_armor_entity
 			}
 		}
 	}
@@ -3458,7 +3496,8 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/medium_2/SAF_cromwell_mk1.dds"
 			}
 			models = {
-				"SAF_medium_armor_entity"
+				commonwealth_gfx_medium_armor_entity
+				#SAF_medium_armor_entity
 			}
 		}
 	}
@@ -3474,7 +3513,8 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/medium_3/SAF_comet_type_a.dds"
 			}
 			models = {
-				"SAF_medium_armor_entity"
+				commonwealth_gfx_medium_armor_entity
+				#SAF_medium_armor_entity
 			}
 		}
 	}
@@ -3490,7 +3530,8 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_0/SAF_independent.dds"
 			}
 			models = {
-				"SAF_medium_armor_entity"
+				commonwealth_gfx_medium_armor_entity
+				#SAF_medium_armor_entity
 			}
 		}
 	}
@@ -3512,8 +3553,9 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_1/SAF_matilda_2_mk2a.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_1/SAF_matilda_2_mk2.dds"
 			}
-			models = {				
-				"SAF_heavy_armor_entity"				
+			models = {			
+				commonwealth_gfx_heavy_armor_entity	
+				#SAF_heavy_armor_entity				
 			}
 		}
 	}
@@ -3534,8 +3576,8 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_churchill_mk7.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_churchill_mk6.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_churchill_mk5.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_churchill_mk4_cSAF_turret_na75.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_churchill_mk4_cSAF_turret.dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_churchill_mk4_cast_turret_na75.dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_churchill_mk4_cast_turret.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_churchill_mk4_welded_turret.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_ardeer_aggie.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_churchill_mk3.dds"
@@ -3543,8 +3585,9 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_churchill_mk2.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_2/SAF_churchill_mk1.dds"
 			}
-			models = {				
-				"SAF_heavy_armor_entity"				
+			models = {
+				commonwealth_gfx_heavy_armor_entity
+				#SAF_heavy_armor_entity				
 			}
 		}
 	}
@@ -3560,7 +3603,8 @@ SAF = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_SAF/heavy_3/SAF_black_prince.dds"
 			}
 			models = {				
-				"SAF_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity
+				#SAF_heavy_armor_entity				
 			}
 		}
 	}
@@ -3677,7 +3721,7 @@ NZL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/light_2/NZL_cruiser_tank_mk_4a.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/light_2/NZL_cruiser_tank_mk_4.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/light_2/NZL_cruiser_tank_mk_3_cs.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/light_2/NZL_cruiser_tank_mk_3dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/light_2/NZL_cruiser_tank_mk_3.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/light_2/NZL_cruiser_tank_mk_2_cs.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/light_2/NZL_cruiser_tank_mk_2.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/light_2/NZL_cruiser_tank_mk_1_cs.dds"
@@ -3853,7 +3897,8 @@ NZL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_1/NZL_matilda_2_mk2.dds"
 			}
 			models = {				
-				"NZL_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity
+				#NZL_heavy_armor_entity				
 			}
 		}
 	}
@@ -3874,8 +3919,8 @@ NZL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_2/NZL_churchill_mk7.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_2/NZL_churchill_mk6.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_2/NZL_churchill_mk5.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_2/NZL_churchill_mk4_cNZL_turret_na75.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_2/NZL_churchill_mk4_cNZL_turret.dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_2/NZL_churchill_mk4_cast_turret_na75.dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_2/NZL_churchill_mk4_cast_turret.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_2/NZL_churchill_mk4_welded_turret.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_2/NZL_ardeer_aggie.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_2/NZL_churchill_mk3.dds"
@@ -3884,7 +3929,8 @@ NZL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_2/NZL_churchill_mk1.dds"
 			}
 			models = {				
-				"NZL_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity
+				#NZL_heavy_armor_entity				
 			}
 		}
 	}
@@ -3900,7 +3946,8 @@ NZL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/heavy_3/NZL_black_prince.dds"
 			}
 			models = {				
-				"NZL_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity
+				#NZL_heavy_armor_entity				
 			}
 		}
 	}
@@ -3914,6 +3961,9 @@ NZL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/super_heavy/NZL_tog_2.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/super_heavy/NZL_tog_1.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_NZL/super_heavy/NZL_tortoise.dds"
+			}
+			models = {				
+				NZL_super_heavy_armor_entity			
 			}
 		}
 	}
@@ -3965,7 +4015,7 @@ MAL = {
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_0/MAL_cardon_loyd_mk_6_early.dds"
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_0/MAL_whippet.dds"
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_0/MAL_light_tank_mk_3.dds"
-				"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_0/MAL_light_tank_mk_2_Malaysian_pattern.dds"
+				"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_0/MAL_light_tank_mk_2_indian_pattern.dds"
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_0/MAL_light_tank_mk_2b.dds"
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_0/MAL_light_tank_mk_2a.dds"
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_0/MAL_light_tank_mk_2.dds"
@@ -3974,7 +4024,8 @@ MAL = {
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_0/MAL_vickers_6t_a.dds"
 			}
 			models = {
-				"MAL_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#MAL_light_armor_entity
 			}
 		}
 	}
@@ -3997,7 +4048,8 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_1/MAL_light_tank_mk_4.dds"
 			}		
 			models = {
-				"MAL_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#MAL_light_armor_entity
 			}
 	    }
 	}
@@ -4017,7 +4069,7 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_2/MAL_cruiser_tank_mk_4a.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_2/MAL_cruiser_tank_mk_4.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_2/MAL_cruiser_tank_mk_3_cs.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_2/MAL_cruiser_tank_mk_3dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_2/MAL_cruiser_tank_mk_3.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_2/MAL_cruiser_tank_mk_2_cs.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_2/MAL_cruiser_tank_mk_2.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_2/MAL_cruiser_tank_mk_1_cs.dds"
@@ -4025,7 +4077,8 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_2/MAL_matilda_1.dds"
 			}
 			models = {
-				"MAL_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#MAL_light_armor_entity
 			}
 		}
 	}
@@ -4056,7 +4109,8 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/light_3/MAL_valentine_mk_1.dds"
 			}
 			models = {
-				"MAL_light_armor_entity"
+				commonwealth_gfx_light_armor_entity
+				#MAL_light_armor_entity
 			}
 		}
 	}
@@ -4076,7 +4130,7 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/medium_0/MAL_medium_tank_mk_1.dds"
 			}
 			models = {
-				"MAL_medium_armor_entity"
+				#MAL_medium_armor_entity
 			}
 		}
 	}
@@ -4106,7 +4160,7 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/medium_1/MAL_crusader_mk1.dds"
 			}
 			models = {
-				"MAL_medium_armor_entity"
+				#MAL_medium_armor_entity
 			}
 		}
 	}
@@ -4138,7 +4192,7 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/medium_2/MAL_cromwell_mk1.dds"
 			}
 			models = {
-				"MAL_medium_armor_entity"
+				#MAL_medium_armor_entity
 			}
 		}
 	}
@@ -4154,7 +4208,7 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/medium_3/MAL_comet_type_a.dds"
 			}
 			models = {
-				"MAL_medium_armor_entity"
+				#MAL_medium_armor_entity
 			}
 		}
 	}
@@ -4170,7 +4224,7 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_0/MAL_independent.dds"
 			}
 			models = {
-				"MAL_medium_armor_entity"
+				#MAL_medium_armor_entity
 			}
 		}
 	}
@@ -4193,7 +4247,8 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_1/MAL_matilda_2_mk2.dds"
 			}
 			models = {				
-				"MAL_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity
+				#MAL_heavy_armor_entity				
 			}
 		}
 	}
@@ -4214,8 +4269,8 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_2/MAL_churchill_mk7.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_2/MAL_churchill_mk6.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_2/MAL_churchill_mk5.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_2/MAL_churchill_mk4_cMAL_turret_na75.dds"
-			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_2/MAL_churchill_mk4_cMAL_turret.dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_2/MAL_churchill_mk4_cast_turret_na75.dds"
+			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_2/MAL_churchill_mk4_cast_turret.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_2/MAL_churchill_mk4_welded_turret.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_2/MAL_ardeer_aggie.dds"
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_2/MAL_churchill_mk3.dds"
@@ -4224,7 +4279,8 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_2/MAL_churchill_mk1.dds"
 			}
 			models = {				
-				"MAL_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity
+				#MAL_heavy_armor_entity				
 			}
 		}
 	}
@@ -4240,7 +4296,8 @@ MAL = {
 			"gfx/interface/equipmentdesigner/tanks/designer/lamp_MAL/heavy_3/MAL_black_prince.dds"
 			}
 			models = {				
-				"MAL_heavy_armor_entity"				
+				commonwealth_gfx_heavy_armor_entity
+				#MAL_heavy_armor_entity				
 			}
 		}
 	}
@@ -4439,7 +4496,7 @@ POL = {
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_POL/heavy_1/pol_30tp.dds" 
 			}
 			models = {				
-				"POL_heavy_armor_entity"				
+				#POL_heavy_armor_entity				
 			}
 		}
 	}
@@ -4452,7 +4509,7 @@ POL = {
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_POL/heavy_2/pol_45tp.dds" 
 			}
 			models = {				
-				"POL_heavy_armor_entity"				
+				#POL_heavy_armor_entity				
 			}
 		}
 	}
@@ -4465,7 +4522,7 @@ POL = {
 				"gfx/interface/equipmentdesigner/tanks/designer/lamp_POL/heavy_3/pol_65tp.dds" 
 			}
 			models = {				
-				"POL_heavy_armor_entity"				
+				#POL_heavy_armor_entity				
 			}
 		}
 	}
@@ -4510,10 +4567,10 @@ HUN = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_HUN_gwtank
- 				GFX_HUN_basic_light_tank
- 				GFX_HUN_imp_light_tank
- 				GFX_HUN_adv_light_tank
+				GFX_HUN_gwtank_medium
+ 				GFX_HUN_basic_light_tank_medium
+ 				GFX_HUN_improved_light_tank_medium
+ 				GFX_HUN_advanced_light_tank_medium
 				"gfx/interface/technologies/hun_gwtank.dds"
 				"gfx/interface/technologies/hun_basic_light_tank.dds"
 				"gfx/interface/technologies/hun_basic_light_tank_td.dds"
@@ -4530,9 +4587,9 @@ HUN = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_HUN_basic_medium_tank
- 				GFX_HUN_imp_medium_tank
- 				GFX_HUN_adv_medium_tank
+				GFX_HUN_basic_medium_tank_medium
+ 				GFX_HUN_improved_medium_tank_medium
+ 				GFX_HUN_advanced_medium_tank_medium
 				"gfx/interface/technologies/hun_basic_medium_tank.dds"
 				"gfx/interface/technologies/hun_basic_medium_tank_spa.dds"
 				"gfx/interface/technologies/hun_imp_medium_tank.dds"
@@ -4546,9 +4603,9 @@ HUN = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_HUN_basic_heavy_tank
- 				GFX_HUN_imp_heavy_tank
- 				GFX_HUN_adv_heavy_tank
+				GFX_HUN_basic_heavy_tank_medium
+ 				GFX_HUN_improved_heavy_tank_medium
+ 				GFX_HUN_advanced_heavy_tank_medium
 				"gfx/interface/technologies/hun_basic_heavy_tank.dds"
 				"gfx/interface/technologies/hun_imp_heavy_tank.dds"
 				"gfx/interface/technologies/hun_imp_heavy_tank_td.dds"
@@ -4583,10 +4640,10 @@ CZE = {
 	light_tank_chassis = {
 	    pool = {
 			icons = { 
-				GFX_CZE_gwtank
- 				GFX_CZE_basic_light_tank
- 				GFX_CZE_imp_light_tank
- 				GFX_CZE_adv_light_tank
+				GFX_CZE_gwtank_medium
+ 				GFX_CZE_basic_light_tank_medium
+ 				GFX_CZE_improved_light_tank_medium
+ 				GFX_CZE_advanced_light_tank_medium
 				"gfx/interface/technologies/cze_gwtank.dds"
 				"gfx/interface/technologies/cze_basic_light_tank.dds"
 				"gfx/interface/technologies/cze_basic_light_tank_td.dds"
@@ -4602,9 +4659,9 @@ CZE = {
 	medium_tank_chassis = {
 	    pool = {
 			icons = { 
-				GFX_CZE_basic_main_tank
- 				GFX_CZE_imp_main_tank
- 				GFX_CZE_adv_main_tank
+				GFX_CZE_basic_medium_tank_medium
+ 				GFX_CZE_improved_medium_tank_medium
+ 				GFX_CZE_advanced_medium_tank_medium
 				"gfx/interface/technologies/cze_basic_main_tank.dds"
 				"gfx/interface/technologies/cze_basic_main_tank_td.dds"
 				"gfx/interface/technologies/cze_basic_main_tank_spa.dds"
@@ -4621,9 +4678,9 @@ CZE = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CZE_basic_heavy_tank
- 				GFX_CZE_imp_heavy_tank
- 				GFX_CZE_adv_heavy_tank
+				GFX_CZE_basic_heavy_tank_medium
+ 				GFX_CZE_improved_heavy_tank_medium
+ 				GFX_CZE_advanced_heavy_tank_medium
 				"gfx/interface/technologies/cze_basic_heavy_tank.dds"
 				"gfx/interface/technologies/cze_imp_heavy_tank.dds"
 				"gfx/interface/technologies/cze_adv_heavy_tank.dds"
@@ -4656,10 +4713,10 @@ ROM = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_ROM_gwtank
- 				GFX_ROM_basic_light_tank
- 				GFX_ROM_imp_light_tank
- 				GFX_ROM_adv_light_tank
+				GFX_ROM_gwtank_medium
+ 				GFX_ROM_basic_light_tank_medium
+ 				GFX_ROM_improved_light_tank_medium
+ 				GFX_ROM_advanced_light_tank_medium
 				"gfx/interface/technologies/rom_gwtank.dds"
 				"gfx/interface/technologies/rom_basic_light_tank.dds"
 				"gfx/interface/technologies/rom_basic_light_tank_td.dds"
@@ -4675,9 +4732,9 @@ ROM = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_ROM_basic_medium_tank
- 				GFX_ROM_imp_medium_tank
- 				GFX_ROM_adv_medium_tank
+				GFX_ROM_basic_medium_tank_medium
+ 				GFX_ROM_improved_medium_tank_medium
+ 				GFX_ROM_advanced_medium_tank_medium
 				"gfx/interface/technologies/rom_basic_medium_tank.dds"
 				"gfx/interface/technologies/rom_basic_medium_tank_td.dds"
 				"gfx/interface/technologies/rom_basic_medium_tank_spa.dds"
@@ -4693,9 +4750,9 @@ ROM = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_ROM_basic_heavy_tank
- 				GFX_ROM_imp_heavy_tank
- 				GFX_ROM_adv_heavy_tank
+				GFX_ROM_basic_heavy_tank_medium
+ 				GFX_ROM_improved_heavy_tank_medium
+ 				GFX_ROM_advanced_heavy_tank_medium
 				"gfx/interface/technologies/rom_basic_heavy_tank.dds"
 				"gfx/interface/technologies/rom_imp_heavy_tank.dds"
 				"gfx/interface/technologies/rom_adv_heavy_tank.dds"
@@ -4727,10 +4784,10 @@ YUG = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_YUG_gwtank
- 				GFX_YUG_basic_light_tank
- 				GFX_YUG_imp_light_tank
- 				GFX_YUG_adv_light_tank
+				GFX_YUG_gwtank_medium
+ 				GFX_YUG_basic_light_tank_medium
+ 				GFX_YUG_improved_light_tank_medium
+ 				GFX_YUG_advanced_light_tank_medium
 				"gfx/interface/technologies/yug_gwtank.dds"
 				"gfx/interface/technologies/yug_basic_light_tank.dds"
 				"gfx/interface/technologies/yug_basic_light_tank_spa.dds"
@@ -4746,9 +4803,9 @@ YUG = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_YUG_basic_main_tank
- 				GFX_YUG_imp_main_tank
- 				GFX_YUG_adv_main_tank
+				GFX_YUG_basic_medium_tank_medium
+ 				GFX_YUG_improved_medium_tank_medium
+ 				GFX_YUG_advanced_medium_tank_medium
 				"gfx/interface/technologies/yug_basic_main_tank.dds"
 				"gfx/interface/technologies/yug_basic_main_tank_td.dds"
 				"gfx/interface/technologies/yug_imp_main_tank.dds"
@@ -4762,9 +4819,9 @@ YUG = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_YUG_basic_heavy_tank
- 				GFX_YUG_imp_heavy_tank
- 				GFX_YUG_adv_heavy_tank
+				GFX_YUG_basic_heavy_tank_medium
+ 				GFX_YUG_improved_heavy_tank_medium
+ 				GFX_YUG_advanced_heavy_tank_medium
 				"gfx/interface/technologies/yug_basic_heavy_tank.dds"
 				"gfx/interface/technologies/yug_imp_heavy_tank.dds"
 				"gfx/interface/technologies/yug_adv_heavy_tank.dds"
@@ -4800,10 +4857,10 @@ CHI = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_gwtank
- 				GFX_CHI_basic_light_tank
- 				GFX_CHI_imp_light_tank
- 				GFX_CHI_adv_light_tank
+				GFX_CHI_gwtank_medium
+ 				GFX_CHI_basic_light_tank_medium
+ 				GFX_CHI_improved_light_tank_medium
+ 				GFX_CHI_advanced_light_tank_medium
 				"gfx/interface/technologies/chi_gwtank.dds"
 				"gfx/interface/technologies/chi_basic_light_tank.dds"
 				"gfx/interface/technologies/chi_imp_light_tank.dds"
@@ -4816,9 +4873,9 @@ CHI = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_basic_medium_tank
- 				GFX_CHI_imp_medium_tank
- 				GFX_CHI_adv_medium_tank
+				GFX_CHI_basic_medium_tank_medium
+ 				GFX_CHI_improved_medium_tank_medium
+ 				GFX_CHI_advanced_medium_tank_medium
 				"gfx/interface/technologies/chi_basic_medium_tank.dds"
 				"gfx/interface/technologies/chi_imp_medium_tank.dds"
 				"gfx/interface/technologies/chi_imp_medium_tank_spa.dds"
@@ -4830,9 +4887,9 @@ CHI = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_basic_heavy_tank
- 				GFX_CHI_imp_heavy_tank
- 				GFX_CHI_adv_heavy_tank
+				GFX_CHI_basic_heavy_tank_medium
+ 				GFX_CHI_improved_heavy_tank_medium
+ 				GFX_CHI_advanced_heavy_tank_medium
 				"gfx/interface/technologies/chi_basic_heavy_tank.dds"
 				"gfx/interface/technologies/chi_imp_heavy_tank.dds"
 				"gfx/interface/technologies/chi_adv_heavy_tank.dds"
@@ -4865,9 +4922,9 @@ PRC = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_PRC_basic_light_tank
- 				GFX_PRC_imp_light_tank
- 				GFX_PRC_adv_light_tank
+				GFX_PRC_basic_light_tank_medium
+ 				GFX_PRC_improved_light_tank_medium
+ 				GFX_PRC_advanced_light_tank_medium
 				"gfx/interface/technologies/prc_gwtank.dds"
 				"gfx/interface/technologies/prc_basic_light_tank.dds"
 				"gfx/interface/technologies/prc_imp_light_tank.dds"
@@ -4879,9 +4936,9 @@ PRC = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_PRC_basic_medium_tank
- 				GFX_PRC_imp_medium_tank
- 				GFX_PRC_adv_medium_tank
+				GFX_PRC_basic_medium_tank_medium
+ 				GFX_PRC_improved_medium_tank_medium
+ 				GFX_PRC_advanced_medium_tank_medium
 				"gfx/interface/technologies/prc_basic_medium_tank.dds"
 				"gfx/interface/technologies/prc_imp_medium_tank.dds"
 				"gfx/interface/technologies/prc_imp_medium_tank_aa.dds"
@@ -4893,9 +4950,9 @@ PRC = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_PRC_basic_heavy_tank
- 				GFX_PRC_imp_heavy_tank
- 				GFX_PRC_adv_heavy_tank
+				GFX_PRC_basic_heavy_tank_medium
+ 				GFX_PRC_improved_heavy_tank_medium
+ 				GFX_PRC_advanced_heavy_tank_medium
 				"gfx/interface/technologies/prc_basic_heavy_tank.dds"
 				"gfx/interface/technologies/prc_imp_heavy_tank.dds"
 				"gfx/interface/technologies/prc_adv_heavy_tank.dds"
@@ -4928,13 +4985,13 @@ YUN = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_gwtank
- 				GFX_CHI_basic_light_tank
- 				GFX_CHI_imp_light_tank
- 				GFX_CHI_adv_light_tank
- 				GFX_PRC_basic_light_tank
- 				GFX_PRC_imp_light_tank
- 				GFX_PRC_adv_light_tank
+				GFX_CHI_gwtank_medium
+ 				GFX_CHI_basic_light_tank_medium
+ 				GFX_CHI_improved_light_tank_medium
+ 				GFX_CHI_advanced_light_tank_medium
+ 				GFX_PRC_basic_light_tank_medium
+ 				GFX_PRC_improved_light_tank_medium
+ 				GFX_PRC_advanced_light_tank_medium
 				"gfx/interface/technologies/yun_gwtank.dds"
 				"gfx/interface/technologies/yun_basic_light_tank.dds"
 				"gfx/interface/technologies/yun_imp_light_tank.dds"
@@ -4947,12 +5004,12 @@ YUN = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_basic_medium_tank
- 				GFX_CHI_imp_medium_tank
- 				GFX_CHI_adv_medium_tank
- 				GFX_PRC_basic_medium_tank
- 				GFX_PRC_imp_medium_tank
- 				GFX_PRC_adv_medium_tank
+				GFX_CHI_basic_medium_tank_medium
+ 				GFX_CHI_improved_medium_tank_medium
+ 				GFX_CHI_advanced_medium_tank_medium
+ 				GFX_PRC_basic_medium_tank_medium
+ 				GFX_PRC_improved_medium_tank_medium
+ 				GFX_PRC_advanced_medium_tank_medium
 				"gfx/interface/technologies/yun_basic_medium_tank.dds"
 				"gfx/interface/technologies/yun_imp_medium_tank.dds"
 				"gfx/interface/technologies/yun_imp_medium_tank_spa.dds"
@@ -4963,12 +5020,12 @@ YUN = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_basic_heavy_tank
- 				GFX_CHI_imp_heavy_tank
- 				GFX_CHI_adv_heavy_tank
- 				GFX_PRC_basic_heavy_tank
- 				GFX_PRC_imp_heavy_tank
- 				GFX_PRC_adv_heavy_tank
+				GFX_CHI_basic_heavy_tank_medium
+ 				GFX_CHI_improved_heavy_tank_medium
+ 				GFX_CHI_advanced_heavy_tank_medium
+ 				GFX_PRC_basic_heavy_tank_medium
+ 				GFX_PRC_improved_heavy_tank_medium
+ 				GFX_PRC_advanced_heavy_tank_medium
 				"gfx/interface/technologies/yun_basic_heavy_tank.dds"
 				"gfx/interface/technologies/yun_imp_heavy_tank.dds"
 				"gfx/interface/technologies/yun_adv_heavy_tank.dds"
@@ -5000,13 +5057,13 @@ XSM = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_gwtank
- 				GFX_CHI_basic_light_tank
- 				GFX_CHI_imp_light_tank
- 				GFX_CHI_adv_light_tank
- 				GFX_PRC_basic_light_tank
- 				GFX_PRC_imp_light_tank
- 				GFX_PRC_adv_light_tank
+				GFX_CHI_gwtank_medium
+ 				GFX_CHI_basic_light_tank_medium
+ 				GFX_CHI_improved_light_tank_medium
+ 				GFX_CHI_advanced_light_tank_medium
+ 				GFX_PRC_basic_light_tank_medium
+ 				GFX_PRC_improved_light_tank_medium
+ 				GFX_PRC_advanced_light_tank_medium
 				"gfx/interface/technologies/xsm_gwtank.dds"
 				"gfx/interface/technologies/xsm_basic_light_tank.dds"
 				"gfx/interface/technologies/xsm_imp_light_tank.dds"
@@ -5019,12 +5076,12 @@ XSM = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_basic_medium_tank
- 				GFX_CHI_imp_medium_tank
- 				GFX_CHI_adv_medium_tank
- 				GFX_PRC_basic_medium_tank
- 				GFX_PRC_imp_medium_tank
- 				GFX_PRC_adv_medium_tank
+				GFX_CHI_basic_medium_tank_medium
+ 				GFX_CHI_improved_medium_tank_medium
+ 				GFX_CHI_advanced_medium_tank_medium
+ 				GFX_PRC_basic_medium_tank_medium
+ 				GFX_PRC_improved_medium_tank_medium
+ 				GFX_PRC_advanced_medium_tank_medium
 				"gfx/interface/technologies/xsm_basic_medium_tank.dds"
 				"gfx/interface/technologies/xsm_imp_medium_tank.dds"
 				"gfx/interface/technologies/xsm_imp_medium_tank_spa.dds"
@@ -5038,12 +5095,12 @@ XSM = {
 				has_dlc = "Waking the Tiger"
 			}
 			icons = { 
-				GFX_CHI_basic_heavy_tank
- 				GFX_CHI_imp_heavy_tank
- 				GFX_CHI_adv_heavy_tank
- 				GFX_PRC_basic_heavy_tank
- 				GFX_PRC_imp_heavy_tank
- 				GFX_PRC_adv_heavy_tank
+				GFX_CHI_basic_heavy_tank_medium
+ 				GFX_CHI_improved_heavy_tank_medium
+ 				GFX_CHI_advanced_heavy_tank_medium
+ 				GFX_PRC_basic_heavy_tank_medium
+ 				GFX_PRC_improved_heavy_tank_medium
+ 				GFX_PRC_advanced_heavy_tank_medium
 				"gfx/interface/technologies/xsm_basic_heavy_tank.dds"
 				"gfx/interface/technologies/xsm_imp_heavy_tank.dds"
 				"gfx/interface/technologies/xsm_adv_heavy_tank.dds"
@@ -5075,13 +5132,13 @@ SIK = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_gwtank
- 				GFX_CHI_basic_light_tank
- 				GFX_CHI_imp_light_tank
- 				GFX_CHI_adv_light_tank
- 				GFX_PRC_basic_light_tank
- 				GFX_PRC_imp_light_tank
- 				GFX_PRC_adv_light_tank
+				GFX_CHI_gwtank_medium
+ 				GFX_CHI_basic_light_tank_medium
+ 				GFX_CHI_improved_light_tank_medium
+ 				GFX_CHI_advanced_light_tank_medium
+ 				GFX_PRC_basic_light_tank_medium
+ 				GFX_PRC_improved_light_tank_medium
+ 				GFX_PRC_advanced_light_tank_medium
 				"gfx/interface/technologies/sik_gwtank.dds"
 				"gfx/interface/technologies/sik_basic_light_tank.dds"
 				"gfx/interface/technologies/sik_imp_light_tank.dds"
@@ -5093,12 +5150,12 @@ SIK = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_basic_medium_tank
- 				GFX_CHI_imp_medium_tank
- 				GFX_CHI_adv_medium_tank
- 				GFX_PRC_basic_medium_tank
- 				GFX_PRC_imp_medium_tank
- 				GFX_PRC_adv_medium_tank
+				GFX_CHI_basic_medium_tank_medium
+ 				GFX_CHI_improved_medium_tank_medium
+ 				GFX_CHI_advanced_medium_tank_medium
+ 				GFX_PRC_basic_medium_tank_medium
+ 				GFX_PRC_improved_medium_tank_medium
+ 				GFX_PRC_advanced_medium_tank_medium
 				"gfx/interface/technologies/sik_basic_medium_tank.dds"
 				"gfx/interface/technologies/sik_imp_medium_tank.dds"
 				"gfx/interface/technologies/sik_imp_medium_tank_aa.dds"
@@ -5110,12 +5167,12 @@ SIK = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_basic_heavy_tank
- 				GFX_CHI_imp_heavy_tank
- 				GFX_CHI_adv_heavy_tank
- 				GFX_PRC_basic_heavy_tank
- 				GFX_PRC_imp_heavy_tank
- 				GFX_PRC_adv_heavy_tank
+				GFX_CHI_basic_heavy_tank_medium
+ 				GFX_CHI_improved_heavy_tank_medium
+ 				GFX_CHI_advanced_heavy_tank_medium
+ 				GFX_PRC_basic_heavy_tank_medium
+ 				GFX_PRC_improved_heavy_tank_medium
+ 				GFX_PRC_advanced_heavy_tank_medium
 				"gfx/interface/technologies/sik_basic_heavy_tank.dds"
 				"gfx/interface/technologies/sik_imp_heavy_tank.dds"
 				"gfx/interface/technologies/sik_adv_heavy_tank.dds"
@@ -5148,13 +5205,13 @@ GXC = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_gwtank
- 				GFX_CHI_basic_light_tank
- 				GFX_CHI_imp_light_tank
- 				GFX_CHI_adv_light_tank
- 				GFX_PRC_basic_light_tank
- 				GFX_PRC_imp_light_tank
- 				GFX_PRC_adv_light_tank
+				GFX_CHI_gwtank_medium
+ 				GFX_CHI_basic_light_tank_medium
+ 				GFX_CHI_improved_light_tank_medium
+ 				GFX_CHI_advanced_light_tank_medium
+ 				GFX_PRC_basic_light_tank_medium
+ 				GFX_PRC_improved_light_tank_medium
+ 				GFX_PRC_advanced_light_tank_medium
 				"gfx/interface/technologies/gxc_gwtank.dds"
 				"gfx/interface/technologies/gxc_basic_light_tank.dds"
 				"gfx/interface/technologies/gxc_imp_light_tank.dds"
@@ -5167,12 +5224,12 @@ GXC = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_basic_medium_tank
- 				GFX_CHI_imp_medium_tank
- 				GFX_CHI_adv_medium_tank
- 				GFX_PRC_basic_medium_tank
- 				GFX_PRC_imp_medium_tank
- 				GFX_PRC_adv_medium_tank
+				GFX_CHI_basic_medium_tank_medium
+ 				GFX_CHI_improved_medium_tank_medium
+ 				GFX_CHI_advanced_medium_tank_medium
+ 				GFX_PRC_basic_medium_tank_medium
+ 				GFX_PRC_improved_medium_tank_medium
+ 				GFX_PRC_advanced_medium_tank_medium
 				"gfx/interface/technologies/gxc_basic_medium_tank.dds"
 				"gfx/interface/technologies/gxc_imp_medium_tank.dds"
 				"gfx/interface/technologies/gxc_imp_medium_tank_spa.dds"
@@ -5183,12 +5240,12 @@ GXC = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_basic_heavy_tank
- 				GFX_CHI_imp_heavy_tank
- 				GFX_CHI_adv_heavy_tank
- 				GFX_PRC_basic_heavy_tank
- 				GFX_PRC_imp_heavy_tank
- 				GFX_PRC_adv_heavy_tank
+				GFX_CHI_basic_heavy_tank_medium
+ 				GFX_CHI_improved_heavy_tank_medium
+ 				GFX_CHI_advanced_heavy_tank_medium
+ 				GFX_PRC_basic_heavy_tank_medium
+ 				GFX_PRC_improved_heavy_tank_medium
+ 				GFX_PRC_advanced_heavy_tank_medium
 				"gfx/interface/technologies/gxc_basic_heavy_tank.dds"
 				"gfx/interface/technologies/gxc_imp_heavy_tank.dds"
 				"gfx/interface/technologies/gxc_adv_heavy_tank.dds"
@@ -5220,13 +5277,13 @@ SHX = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_gwtank
- 				GFX_CHI_basic_light_tank
- 				GFX_CHI_imp_light_tank
- 				GFX_CHI_adv_light_tank
- 				GFX_PRC_basic_light_tank
- 				GFX_PRC_imp_light_tank
- 				GFX_PRC_adv_light_tank
+				GFX_CHI_gwtank_medium
+ 				GFX_CHI_basic_light_tank_medium
+ 				GFX_CHI_improved_light_tank_medium
+ 				GFX_CHI_advanced_light_tank_medium
+ 				GFX_PRC_basic_light_tank_medium
+ 				GFX_PRC_improved_light_tank_medium
+ 				GFX_PRC_advanced_light_tank_medium
 				"gfx/interface/technologies/shx_gwtank.dds"
 				"gfx/interface/technologies/shx_basic_light_tank.dds"
 				"gfx/interface/technologies/shx_imp_light_tank.dds"
@@ -5239,12 +5296,12 @@ SHX = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_basic_medium_tank
- 				GFX_CHI_imp_medium_tank
- 				GFX_CHI_adv_medium_tank
- 				GFX_PRC_basic_medium_tank
- 				GFX_PRC_imp_medium_tank
- 				GFX_PRC_adv_medium_tank
+				GFX_CHI_basic_medium_tank_medium
+ 				GFX_CHI_improved_medium_tank_medium
+ 				GFX_CHI_advanced_medium_tank_medium
+ 				GFX_PRC_basic_medium_tank_medium
+ 				GFX_PRC_improved_medium_tank_medium
+ 				GFX_PRC_advanced_medium_tank_medium
 				"gfx/interface/technologies/shx_basic_medium_tank.dds"
 				"gfx/interface/technologies/shx_imp_medium_tank.dds"
 				"gfx/interface/technologies/shx_imp_medium_tank_spa.dds"
@@ -5255,12 +5312,12 @@ SHX = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_CHI_basic_heavy_tank
- 				GFX_CHI_imp_heavy_tank
- 				GFX_CHI_adv_heavy_tank
- 				GFX_PRC_basic_heavy_tank
- 				GFX_PRC_imp_heavy_tank
- 				GFX_PRC_adv_heavy_tank
+				GFX_CHI_basic_heavy_tank_medium
+ 				GFX_CHI_improved_heavy_tank_medium
+ 				GFX_CHI_advanced_heavy_tank_medium
+ 				GFX_PRC_basic_heavy_tank_medium
+ 				GFX_PRC_improved_heavy_tank_medium
+ 				GFX_PRC_advanced_heavy_tank_medium
 				"gfx/interface/technologies/shx_basic_heavy_tank.dds"
 				"gfx/interface/technologies/shx_imp_heavy_tank.dds"
 				"gfx/interface/technologies/shx_adv_heavy_tank.dds"
@@ -5546,9 +5603,9 @@ HOL = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_HOL_basic_light_tank
- 				GFX_HOL_imp_light_tank
- 				GFX_HOL_adv_light_tank
+				GFX_HOL_basic_light_tank_medium
+ 				GFX_HOL_improved_light_tank_medium
+ 				GFX_HOL_advanced_light_tank_medium
 				"gfx/interface/technologies/hol_gwtank.dds"
 				"gfx/interface/technologies/hol_basic_light_tank.dds"
 				"gfx/interface/technologies/hol_imp_light_tank.dds"
@@ -5560,9 +5617,9 @@ HOL = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_HOL_basic_medium_tank
- 				GFX_HOL_imp_medium_tank
- 				GFX_HOL_adv_medium_tank
+				GFX_HOL_basic_medium_tank_medium
+ 				GFX_HOL_improved_medium_tank_medium
+ 				GFX_HOL_advanced_medium_tank_medium
 				"gfx/interface/technologies/hol_basic_medium_tank.dds"
 				"gfx/interface/technologies/hol_imp_medium_tank.dds"
 				"gfx/interface/technologies/hol_adv_medium_tank.dds"
@@ -5575,9 +5632,9 @@ HOL = {
 				has_dlc = "Man the Guns"
 			}
 			icons = { 
-				GFX_HOL_basic_heavy_tank
- 				GFX_HOL_imp_heavy_tank
- 				GFX_HOL_adv_heavy_tank
+				GFX_HOL_basic_heavy_tank_medium
+ 				GFX_HOL_improved_heavy_tank_medium
+ 				GFX_HOL_advanced_heavy_tank_medium
 				"gfx/interface/technologies/hol_basic_heavy_tank.dds"
 				"gfx/interface/technologies/hol_imp_heavy_tank.dds"
 				"gfx/interface/technologies/hol_adv_heavy_tank.dds"
@@ -5608,9 +5665,9 @@ MEX = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_MEX_basic_light_tank
- 				GFX_MEX_imp_light_tank
- 				GFX_MEX_adv_light_tank
+				GFX_MEX_basic_light_tank_medium
+ 				GFX_MEX_improved_light_tank_medium
+ 				GFX_MEX_advanced_light_tank_medium
 				"gfx/interface/technologies/mex_basic_light_tank.dds"
 				"gfx/interface/technologies/mex_imp_light_tank.dds"
 				"gfx/interface/technologies/mex_adv_light_tank.dds"
@@ -5621,9 +5678,9 @@ MEX = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_MEX_basic_medium_tank
- 				GFX_MEX_imp_medium_tank
- 				GFX_MEX_adv_medium_tank
+				GFX_MEX_basic_medium_tank_medium
+ 				GFX_MEX_improved_medium_tank_medium
+ 				GFX_MEX_advanced_medium_tank_medium
 				"gfx/interface/technologies/mex_basic_medium_tank.dds"
 				"gfx/interface/technologies/mex_imp_medium_tank.dds"
 				"gfx/interface/technologies/mex_adv_medium_tank.dds"
@@ -5633,9 +5690,9 @@ MEX = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_MEX_basic_heavy_tank
- 				GFX_MEX_imp_heavy_tank
- 				GFX_MEX_adv_heavy_tank
+				GFX_MEX_basic_heavy_tank_medium
+ 				GFX_MEX_improved_heavy_tank_medium
+ 				GFX_MEX_advanced_heavy_tank_medium
 				"gfx/interface/technologies/mex_basic_heavy_tank.dds"
 				"gfx/interface/technologies/mex_imp_heavy_tank.dds"
 				"gfx/interface/technologies/mex_adv_heavy_tank.dds"
@@ -5668,9 +5725,9 @@ POR = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_POR_basic_light_tank
- 				GFX_POR_imp_light_tank
- 				GFX_POR_adv_light_tank
+				GFX_POR_basic_light_tank_medium
+ 				GFX_POR_improved_light_tank_medium
+ 				GFX_POR_advanced_light_tank_medium
 				"gfx/interface/technologies/por_gw_tank.dds"
 				"gfx/interface/technologies/por_basic_light_tank.dds"
 				"gfx/interface/technologies/por_imp_light_tank.dds"
@@ -5682,9 +5739,9 @@ POR = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_POR_basic_medium_tank
- 				GFX_POR_imp_medium_tank
- 				GFX_POR_adv_medium_tank
+				GFX_POR_basic_medium_tank_medium
+ 				GFX_POR_improved_medium_tank_medium
+ 				GFX_POR_advanced_medium_tank_medium
 				"gfx/interface/technologies/por_basic_medium_tank.dds"
 				"gfx/interface/technologies/por_imp_medium_tank.dds"
 				"gfx/interface/technologies/por_adv_medium_tank.dds"
@@ -5694,9 +5751,9 @@ POR = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_POR_basic_heavy_tank
- 				GFX_POR_imp_heavy_tank
- 				GFX_POR_adv_heavy_tank
+				GFX_POR_basic_heavy_tank_medium
+ 				GFX_POR_improved_heavy_tank_medium
+ 				GFX_POR_advanced_heavy_tank_medium
 				"gfx/interface/technologies/por_basic_heavy_tank.dds"
 				"gfx/interface/technologies/por_imp_heavy_tank.dds"
 				"gfx/interface/technologies/por_adv_heavy_tank.dds"
@@ -5726,9 +5783,9 @@ SPR = {
 	light_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_SPR_basic_light_tank
- 				GFX_SPR_imp_light_tank
- 				GFX_SPR_adv_light_tank
+				GFX_SPR_basic_light_tank_medium
+ 				GFX_SPR_improved_light_tank_medium
+ 				GFX_SPR_advanced_light_tank_medium
 				"gfx/interface/technologies/spr_gwtank.dds"
 				"gfx/interface/technologies/spr_basic_light_tank.dds"
 				"gfx/interface/technologies/spr_imp_light_tank.dds"
@@ -5741,9 +5798,9 @@ SPR = {
 	medium_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_SPR_basic_medium_tank
- 				GFX_SPR_imp_medium_tank
- 				GFX_SPR_adv_medium_tank
+				GFX_SPR_basic_medium_tank_medium
+ 				GFX_SPR_improved_medium_tank_medium
+ 				GFX_SPR_advanced_medium_tank_medium
 				"gfx/interface/technologies/spr_basic_medium_tank.dds"
 				"gfx/interface/technologies/spr_imp_medium_tank.dds"
 				"gfx/interface/technologies/spr_adv_medium_tank.dds"
@@ -5753,9 +5810,9 @@ SPR = {
 	heavy_tank_chassis = {
 		pool = {
 			icons = { 
-				GFX_SPR_basic_heavy_tank
- 				GFX_SPR_imp_heavy_tank
- 				GFX_SPR_adv_heavy_tank
+				GFX_SPR_basic_heavy_tank_medium
+ 				GFX_SPR_improved_heavy_tank_medium
+ 				GFX_SPR_advanced_heavy_tank_medium
 				"gfx/interface/technologies/spr_basic_heavy_tank.dds"
 				"gfx/interface/technologies/spr_imp_heavy_tank.dds"
 				"gfx/interface/technologies/spr_adv_heavy_tank.dds"

@@ -17,27 +17,27 @@ spriteTypes = {
 	#(German support vehicle#
         SpriteType = {
             name = "GFX_GER_armored_support_vehicle_medium"
-            texturefile = "gfx\interface\technologies\ger\tank\ger_minenraumpanzer_3.dds"
+            texturefile = "gfx/interface/technologies/ger/tank/ger_minenraumpanzer_3.dds"
         }
 		
         SpriteType = {
             name = "GFX_GER_armored_support_vehicle_recovery_medium"
-            texturefile = "gfx\interface\technologies\ger\tank\ger_berge_panzer4.dds"
+            texturefile = "gfx/interface/technologies/ger/tank/ger_berge_panzer4.dds"
         }
 		
         SpriteType = {
             name = "GFX_GER_armored_support_vehicle_recovery_1_medium"
-            texturefile = "gfx\interface\technologies\ger\tank\ger_berge_panzer4.dds"
+            texturefile = "gfx/interface/technologies/ger/tank/ger_berge_panzer4.dds"
         }
 		
         SpriteType = {
             name = "GFX_GER_armored_support_vehicle_recovery_2_medium"
-            texturefile = "gfx\interface\technologies\ger\tank\ger_berge_panzer4.dds"
+            texturefile = "gfx/interface/technologies/ger/tank/ger_berge_panzer4.dds"
         }
 		
         SpriteType = {
             name = "GFX_GER_armored_support_vehicle_crossing_medium"
-            texturefile = "gfx\interface\technologies\ger\tank\ger_bruckenleger_1.dds"
+            texturefile = "gfx/interface/technologies/ger/tank/ger_bruckenleger_1.dds"
         }
 		
         SpriteType = {
@@ -49,7 +49,7 @@ spriteTypes = {
 	#(German super-heavy SPH#
         SpriteType = {
             name = "GFX_GER_self_propelled_super_heavy_artillery_equipment_medium"
-            texturefile = "gfx\interface\technologies\ger\tank\ger_karl.dds"
+            texturefile = "gfx/interface/technologies/ger/tank/ger_karl.dds"
         }
 	#)#	
 	
@@ -74,21 +74,21 @@ spriteTypes = {
 	#(German helicopter#
 		SpriteType = {
 			name = "GFX_GER_helicopter_equipment_medium"
-			texturefile = "gfx\interface\technologies\ger\aircraft/ger_fl282.dds"
+			texturefile = "gfx/interface/technologies/ger/aircraft/ger_fl282.dds"
 		}
 	#)#	
 	
 	#(German mothership#
 		SpriteType = {
 			name = "GFX_GER_mothership_equipment_medium"
-			texturefile = "gfx\interface\technologies\ger\aircraft/ger_ar234_w_are381.dds"
+			texturefile = "gfx/interface/technologies/ger/aircraft/ger_ar234_w_are381.dds"
 		}
 	#)#	
 	
 	#(German intercontinental bomber#
 		SpriteType = {
 			name = "GFX_GER_strat_bomber_intercontinental_equipment_medium"
-			texturefile = "gfx\interface\technologies\ger\aircraft/ger_ho_xviii.dds"
+			texturefile = "gfx/interface/technologies/ger/aircraft/ger_ho_xviii.dds"
 		}
 	#)#	
 	
